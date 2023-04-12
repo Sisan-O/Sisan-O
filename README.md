@@ -1,5 +1,5 @@
-Hi there 👋, I'm @Sisan-O
-I'm interested in Data Analysis
+- Hi there 👋, I'm @Sisan-O
+- I'm interested in Data Analysis
 
 <!--
 **Sisan-O/Sisan-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
